@@ -4,7 +4,7 @@ Dark theme for discord
 
 ## Use : 
 
-  For use this theme, you need BetterDiscord for have the css editor. Install and info in <https://betterdiscord.app/FAQ">.
+  For use this theme, you need BetterDiscord for have the css editor. Install and info in <https://betterdiscord.app/FAQ>.
   When you have BetterDiscord installed, add this css in the editor :
 
 ```css
